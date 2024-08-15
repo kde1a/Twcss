@@ -4,7 +4,7 @@
  */
 
 module.exports = {
-  content: ["./*public/html"],
+  content: ["./*html"],
   theme: {
     screens: {
       sm: "480px",
